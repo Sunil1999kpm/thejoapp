@@ -59,6 +59,7 @@ export default function App() {
               >
                 <img
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT25prw-zjKr_WgUic4GD0iwHbnjUaT5GrSKptcMFUNjlNqYeTRcfn3pWuf9EZib-jLXxU&usqp=CAU"
+                  alt="Logo"
                   height="40px"
                   width="40px"
                 />
@@ -167,6 +168,7 @@ export default function App() {
                   </Typography>
                   <img
                     src="https://purecodestorageprod.blob.core.windows.net/images-svg/Signin_0751de41-ebc9-4c5a-8c7c-2362d51a83d6.svg"
+                    alt="Sign in with Google Button"
                     style={{
                       " @media(max-width:479px)": {
                         height: "12px",
@@ -227,6 +229,7 @@ export default function App() {
                 >
                   <img
                     src="https://purecodestorageprod.blob.core.windows.net/images-svg/Signin_d69825d0-e31c-4d4f-bd1c-4c77a81e588c.svg"
+                    alt="Sign in with Google Button"
                     style={{
                       " @media(max-width:479px)": {
                         width: "14px",
