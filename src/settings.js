@@ -5,8 +5,8 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import { styled } from '@mui/system';
 import { ArrowRightCircle } from 'lucide-react';
-import { Link, BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Heatingplates from './Heatingplates';
+import { Link } from 'react-router-dom';
+
 
 const Container = styled(Box)({
   display: 'flex',

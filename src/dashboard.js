@@ -1,13 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import { Typography, Box, Button } from "@mui/material";
 import { BarChart2 } from "lucide-react"; // Importing BarChart2 icon
 
 export default function Dashboard() {
-  const [selected, setSelected] = useState("");
-
-  const selectPlate = (plate) => {
-    setSelected(plate);
-  };
+  
 
   return (
     <div

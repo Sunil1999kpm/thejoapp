@@ -1,7 +1,7 @@
 import React from "react";
 import { Typography, Box, Button } from "@mui/material";
 import { Link } from "react-router-dom";
-import Dashboard from "./dashboard"; // Assuming Dashboard component is imported correctly
+//import Dashboard from "./dashboard"; // Assuming Dashboard component is imported correctly
 
 export default function Heatingplates() {
   return (
